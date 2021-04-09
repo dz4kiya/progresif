@@ -554,6 +554,16 @@ footer span a:hover {
   }
 }
 @media (max-width: 947px) {
+  .home {
+    display: flex;
+    background: url("img/banners-mobile.png") no-repeat center;
+    height: 100vh;
+    color: #f7f7f5;
+    min-height: 500px;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Poppins", sans-serif;
+  }
   .menu-btn {
     display: block;
     z-index: 999;
