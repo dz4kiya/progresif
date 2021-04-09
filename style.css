@@ -421,9 +421,7 @@ section .title {
 }
 
 /* contact section styling */
-/* .contact .title::after {
-  content: "get in touch";
-}
+
 .contact .contact-content .column {
   width: calc(50% - 30px);
 }
@@ -515,7 +513,7 @@ section .title {
 .contact .right form .button button:hover {
   color: #141414;
   background: none;
-} */
+}
 
 .logo-dept {
   width: 200px;
