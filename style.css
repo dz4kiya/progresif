@@ -568,7 +568,6 @@ footer span a:hover {
     height: 28.8px;
     left: 0;
     top: 32px;
-    background-color: #2d63a4;
   }
 
   .navbar .menu {
@@ -596,8 +595,8 @@ footer span a:hover {
   .home .home-content .text-2 {
     font-size: 70px;
   }
-  .home .home-content .text-3 {
-    font-size: 35px;
+  .home .home-content .text-3 span {
+    display: none;
   }
   .home .home-content a {
     font-size: 23px;
